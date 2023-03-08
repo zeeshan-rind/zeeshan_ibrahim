@@ -1,7 +1,20 @@
 .main-div{
+    align-items: center;
     background-color: rgb(243, 243, 230);
     border-radius: 1%;
+    padding: 3%;
+    margin: 3%;
 }
 .small-div{
+   
+    justify-content: center;
     background-color: white;
+   
 }
+.main-div h1{
+    text-align: center;
+}
+.main-div p{
+    text-align: center;
+}
+
